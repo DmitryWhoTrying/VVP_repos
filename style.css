@@ -23,6 +23,6 @@ a.foo:hover {
   color: black;
 }
 a.foo {
-  text-decoration-color: white;
-  color: white;
+  text-decoration-color: blue;
+  color: pink;
 }
